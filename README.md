@@ -1,3 +1,3 @@
-# bibProspector
+# prospector
 
-This is a tool built by BI&A NA to extract useful business insight from online text analysis  
+This is a tool built to extract text from twitter and other social media platforms (under construction)  
