@@ -1,7 +1,6 @@
 # Author:           Craig JURS
 # Python Version:   3.6
 # project:          
-# Copyright:        Michelin North America, 2020
 # =============================================================================
 """extract text from twitter using a list of search terms"""
 # =============================================================================
